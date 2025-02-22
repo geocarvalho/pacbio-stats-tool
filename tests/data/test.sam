@@ -1,0 +1,6 @@
+@HD	VN:1.6	SO:coordinate
+@SQ	SN:chr1	LN:1000
+@SQ	SN:chr2	LN:500
+read1	0	chr1	1	60	10M	*	0	0	ATGCATGCAT	*
+read2	0	chr1	5	60	10M	*	0	0	ATGCATGCAT	*
+read3	0	chr2	1	60	10M	*	0	0	ATGCATGCAT	*
